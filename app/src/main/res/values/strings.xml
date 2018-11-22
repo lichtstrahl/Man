@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Igor</string>
+
+    <string name="defaultAppName">I love Java</string>
+
+
+    <string name="defaultFirstName">Игорь</string>
+    <string name="defaultLastName">Смирнов</string>
+</resources>
